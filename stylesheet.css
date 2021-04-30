@@ -1,0 +1,18 @@
+main {
+    background-image:url(/Users/apple/Documents/Neptune/background_mein.jpeg) ;
+    object-fit: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    color:cadetblue;
+    background-blend-mode: lighten;
+    background-color: rgba(255, 255, 255, 0.8);
+    background-size: 15cm;
+}
+
+.flex_1 {
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 20px 20px ;
+    margin-bottom: 30px;
+}
